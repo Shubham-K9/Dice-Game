@@ -30,14 +30,14 @@ Open dicee.html in your browser.
 Just Refresh the Page dice will roll.
 
 See the dice values and the winner displayed on the screen.
-
+```
 DiceGame/
 ├── dicee.html       # Main HTML file
 ├── styles.css       # Stylesheet
 ├── new.js           # JavaScript file with game logic
 ├── utils/           # Dice images (dice1.png to dice6.png)
 └── desktop.ini      # System file (can ignore)
-
+```
 
 Future Improvements
 
