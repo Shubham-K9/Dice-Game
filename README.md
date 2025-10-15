@@ -1,5 +1,8 @@
 🎲 Dice Game
 
+<p align="center"> <img src="utils/win1.png" alt="Dice Game Screenshot" width="300"/> </p>
+<p align="center"> <img src="utils/win2.png" alt="Dice Game Screenshot" width="300"/> </p>
+
 A simple JavaScript-based Dice Game where two players roll dice and the highest roll wins. This project demonstrates basic DOM manipulation, event handling, and styling with HTML/CSS/JS.
 
 Features
@@ -28,13 +31,13 @@ Just Refresh the Page dice will roll.
 
 See the dice values and the winner displayed on the screen.
 
-File Structure
 DiceGame/
 ├── dicee.html       # Main HTML file
 ├── styles.css       # Stylesheet
 ├── new.js           # JavaScript file with game logic
 ├── utils/           # Dice images (dice1.png to dice6.png)
 └── desktop.ini      # System file (can ignore)
+
 
 Future Improvements
 
